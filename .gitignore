@@ -1,0 +1,5 @@
+.*.swp
+.*.swo
+.ipynb*
+__pycache__
+.~lock*
